@@ -12,13 +12,13 @@ The purpose of this assignment is to help you become more familiar with basic R 
 
 5. The following code results in an error.
 
-```
-bioinformatics = 1
-is = 2
-for = 3
-cool = 4
-people = 5
-print(bioinformatics + is + for + cool + people)
-```
+    ```
+    bioinformatics = 1
+    is = 2
+    for = 3
+    cool = 4
+    people = 5
+    print(bioinformatics + is + for + cool + people)
+    ```
 
-First run the code as it is shown above so you can see what error message this code gives. Then fix the code so that it calculates the sum of the three integers.
+    First run the code as it is shown above so you can see what error message this code gives. Then fix the code so that it calculates the sum of the three integers.
