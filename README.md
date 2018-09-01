@@ -16,7 +16,7 @@ As you complete the problems, *commit* your answers to the master branch on GitH
 
 ```
 git add --all
-git commit -m "<message>
+git commit -m "<message>"
 git push origin master
 ```
 
