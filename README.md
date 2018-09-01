@@ -4,9 +4,9 @@
 
 The purpose of this assignment is to help you become more familiar with basic R coding. To get started, make sure you have the `git` software [installed](https://git-scm.com/downloads). Then on GitHub, copy the URL to clone this repository. At the command line, enter the following (replacing `<clone URL>` with the actual URL:
 
-    ``
+    ```
     git clone <clone URL>
-    ``
+    ```
 
 Read the instructions carefully for each problem listed below. For each of the problems, you should write an R script called `ProblemX.R`, but replace `X` with the problem number. For example, for problem 1, the R script would be named `Problem1.R`.
 
@@ -14,11 +14,11 @@ In this repository, you will find a directory called `Tests`. It contains a test
 
 As you complete the problems, *commit* your answers to the master branch on GitHub. Put your scripts in the root directory of your repository. You can commit your code using the following three commands (replace `<message>` with an actual message):
 
-    ``
+    ```
     git add --all
     git commit -m "<message>
     git push origin master
-    ``
+    ```
 
 After the grading deadline (see Learning Suite), I will clone your repository and test your code.
 
@@ -34,14 +34,14 @@ After the grading deadline (see Learning Suite), I will clone your repository an
 
 5. The following code results in an error.
 
-    ``
+    ```
     bioinformatics <- 1
     is <- 2
     for <- 3
     cool <- 4
     people <- 5
     print(bioinformatics + is + for + cool + people)
-    ``
+    ```
 
     First run the code as it is shown above so you can see the error message. Then fix the code so that it calculates and prints the sum of the five integers.
 
