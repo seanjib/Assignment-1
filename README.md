@@ -32,7 +32,7 @@ After the grading deadline (see Learning Suite), I will clone your repository an
 
 4. Please declare a variable called `numLions` that stores an integer value of `42`. Declare another variable called `numTigers` that stores an integer value of `17`. Declare another variable called `country` that stores a string value of `South Africa`. Print a message that indicates the following: "The number of lions in South Africa is 42. The number of tigers in South Africa is 17." Hint: use the `paste` function.
 
-5. The following code results in an error.
+5. The following code results in an error. First run the code as it is shown below so you can see the error message. Then fix the code so that it calculates and prints the sum of the five integers.
 
 ```
 bioinformatics <- 1
@@ -42,8 +42,6 @@ cool <- 4
 people <- 5
 print(bioinformatics + is + for + cool + people)
 ```
-
-First run the code as it is shown above so you can see the error message. Then fix the code so that it calculates and prints the sum of the five integers.
 
 6. An ecologist is studying the effects of ambient temperature on nematode worm development. Her strategy is to place the worms in small boxes and then to place these boxes under different levels of heat exposure in her lab. In total, she has 341 worms. Write code that performs the calculations described below and prints each answer.
 
