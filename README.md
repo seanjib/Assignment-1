@@ -53,13 +53,13 @@ First run the code as it is shown above so you can see the error message. Then f
 
 7. Use built-in R functions to print an answer to each of the following.
 
-- The absolute value of -15.5.
-- 3.8 rounded **up** to the nearest integer.
-- 3.8 rounded **down** to the nearest integer.
-- 4.483847 rounded to one decimal place using standard rounding.
-- Take the square root of 9.99999.
-- The natural logarithm of 16.
-- The base-2 logarithm of 16.
+    - The absolute value of -15.5.
+    - 3.8 rounded **up** to the nearest integer.
+    - 3.8 rounded **down** to the nearest integer.
+    - 4.483847 rounded to one decimal place using standard rounding.
+    - Take the square root of 9.99999.
+    - The natural logarithm of 16.
+    - The base-2 logarithm of 16.
 
 8. Please write a function called `addThreeNumbers` that accepts 3 arguments. When this function is invoked, each of the parameter values will be either numeric or integer values. Your function should **calculate and return the sum** of these numbers.
 
