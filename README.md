@@ -43,23 +43,23 @@ people <- 5
 print(bioinformatics + is + for + cool + people)
 ```
 
-    First run the code as it is shown above so you can see the error message. Then fix the code so that it calculates and prints the sum of the five integers.
+First run the code as it is shown above so you can see the error message. Then fix the code so that it calculates and prints the sum of the five integers.
 
 6. An ecologist is studying the effects of ambient temperature on nematode worm development. Her strategy is to place the worms in small boxes and then to place these boxes under different levels of heat exposure in her lab. In total, she has 341 worms. Write code that performs the calculations described below and prints each answer.
 
-    If exactly 26 worms can fit in a single box, what is the minimum number of boxes she should buy so that there will be enough room for all the worms?
+If exactly 26 worms can fit in a single box, what is the minimum number of boxes she should buy so that there will be enough room for all the worms?
 
-    Assuming that she places 26 worms in all the boxes except the last one, how many worms will be in the last box?
+Assuming that she places 26 worms in all the boxes except the last one, how many worms will be in the last box?
 
 7. Use built-in R functions to print an answer to each of the following.
 
-    a. The absolute value of -15.5.
-    b. 3.8 rounded **up** to the nearest integer.
-    c. 3.8 rounded **down** to the nearest integer.
-    c. 4.483847 rounded to one decimal place using standard rounding.
-    d. Take the square root of 9.99999.
-    e. The natural logarithm of 16.
-    f. The base-2 logarithm of 16.
+a. The absolute value of -15.5.
+b. 3.8 rounded **up** to the nearest integer.
+c. 3.8 rounded **down** to the nearest integer.
+d. 4.483847 rounded to one decimal place using standard rounding.
+e. Take the square root of 9.99999.
+f. The natural logarithm of 16.
+g. The base-2 logarithm of 16.
 
 8. Please write a function called `addThreeNumbers` that accepts 3 arguments. When this function is invoked, each of the parameter values will be either numeric or integer values. Your function should **calculate and return the sum** of these numbers.
 
