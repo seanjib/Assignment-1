@@ -2,21 +2,23 @@
 
 ### Instructions
 
-The purpose of this assignment is to help you become more familiar with basic R coding. Read the instructions carefully for each problem listed below. For each of the problems, you should write an R script called `ProblemX.R`, but replace `X` with the problem number. For example, for problem 1, the R script would be named `Problem1.R`.
+The purpose of this assignment is to help you become more familiar with basic R coding.
 
-In this repository, you will find a directory called `Tests`. It contains a test script for each problem. I will use these scripts to test your code. You will also find a directory called `ExpectedOutput`. If your code is working properly for a given problem, you should get this output when the test script is executed for that problem.
+Read the instructions carefully for each problem listed below. For each of the problems, you should write an R script called `ProblemX.R`, but replace `X` with the problem number. For example, for problem 1, the R script would be named `Problem1.R`.
 
-As you complete the problems, *commit* your answer to your master branch on GitHub. You can edit 
+In this repository, you will find a directory called `Tests`. It contains a test script for each problem. I will use these scripts to test your code. You can use them to test your code as well. You will also find a directory called `ExpectedOutput`. If your code is working properly for a given problem, you should get this output when the test script is executed for that problem.
+
+As you complete the problems, *commit* your answers to the master branch on GitHub. Put your scripts in the root directory of your repository. After the grading deadline (see Learning Suite), I will clone your repository and test your code.
 
 ### Problem Descriptions
 
-1. Please write an R script called `Problem1.R` that declares a variable called `greeting` and assigns a value of `Hello, World!` to that variable. Then print the value of this variable.
+1. Please write an R script (called `Problem1.R`) that declares a variable called `greeting` and assigns a value of `Hello, World!` to that variable. Then print the value of this variable.
 
-2. Please declare a variable that stores an *integer* value of `2` and another variable that stores a *numeric* value of the same number. Print the values of these variables (*in the same order* they were mentioned above). Then use the `class` function to obtain and print the type of these variables (in the same order they were mentioned above).
+2. Declare a variable that stores an *integer* value of `2` and another variable that stores a *numeric* value of the same number. Print the values of these variables (*in the same order* they were mentioned above). Then use the `class` function to obtain and print the type of these variables (in the same order they were mentioned above).
 
-3. Please declare a variable that stores a *string* value of `8460.2`. Print the value of this variable. Then convert the value to a *numeric* and print that value. Finally, convert the float value to an *integer* and print that value.
+3. Declare a variable that stores a *string* value of `8460.2`. Print the value of this variable. Then convert the value to a *numeric* and print that value. Finally, convert the float value to an *integer* and print that value.
 
-4. Please declare a variable called `numLions` that stores an integer value of `42`. Declare another variable called `numTigers` that stores an integer value of `17`. Declare another variable called `country` that stores a string value of `South Africa`. Print a message that indicates the following: "The number of lions in South Africa is 42. The number of tigers in South Africa is 17." **Your Python code must use these variables, and the first two variables must be declared as integers.**
+4. Please declare a variable called `numLions` that stores an integer value of `42`. Declare another variable called `numTigers` that stores an integer value of `17`. Declare another variable called `country` that stores a string value of `South Africa`. Print a message that indicates the following: "The number of lions in South Africa is 42. The number of tigers in South Africa is 17." Hint: use the `paste` function.
 
 5. The following code results in an error.
 
@@ -29,13 +31,13 @@ As you complete the problems, *commit* your answer to your master branch on GitH
     print(bioinformatics + is + for + cool + people)
     ```
 
-    First run the code as it is shown above so you can see what error message this code gives. Then fix the code so that it calculates the sum of the five integers.
+    First run the code as it is shown above so you can see the error message. Then fix the code so that it calculates and prints the sum of the five integers.
 
-6. An ecologist is studying the effects of ambient temperature on nematode worm development. Her strategy is to place the worms in small boxes and then to place these boxes under different levels of heat exposure in her lab. In total, she has 341 worms. Write Python code that performs the calculations described below and prints each answer.
+6. An ecologist is studying the effects of ambient temperature on nematode worm development. Her strategy is to place the worms in small boxes and then to place these boxes under different levels of heat exposure in her lab. In total, she has 341 worms. Write code that performs the calculations described below and prints each answer.
 
-If exactly 26 worms can fit in a single box, what is the minimum number of boxes she should buy so that there will be enough room for all the worms?
+    If exactly 26 worms can fit in a single box, what is the minimum number of boxes she should buy so that there will be enough room for all the worms?
 
-Assuming that she places 26 worms in all the boxes except the last one, how many worms will be in the last box?
+    Assuming that she places 26 worms in all the boxes except the last one, how many worms will be in the last box?
 
 7. Suppose that you measure the radius of a crop circle to be 250 feet. Write Python code that declares a variable for the radius and then calculates and prints the area of that crop circle, rounded to 2 decimal places. The format of this output should be "The area of the crop circle is X.XX feet." (Replace "X.XX" with the actual value.) Your code must use the ``math`` module to determine the value of pi.
 
