@@ -4,9 +4,9 @@
 
 The purpose of this assignment is to help you become more familiar with basic R coding. To get started, make sure you have the `git` software [installed](https://git-scm.com/downloads). Then on GitHub, copy the URL to clone this repository. At the command line, enter the following (replacing `<clone URL>` with the actual URL:
 
-    ```
-    git clone <clone URL>
-    ```
+```
+git clone <clone URL>
+```
 
 Read the instructions carefully for each problem listed below. For each of the problems, you should write an R script called `ProblemX.R`, but replace `X` with the problem number. For example, for problem 1, the R script would be named `Problem1.R`.
 
