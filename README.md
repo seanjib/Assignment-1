@@ -2,17 +2,21 @@
 
 ### Instructions
 
-The purpose of this assignment is to help you become more familiar with basic R coding. To get started, make sure you have the `git` software [installed](https://git-scm.com/downloads). Then on GitHub, copy the URL to clone this repository. At the command line, enter the following (replacing `<clone URL>` with the actual URL:
+The purpose of this assignment is to help you become more familiar with basic R coding. To get started, you should "fork" this GitHub repository. First log in to GitHub using your personal account. Then click on the "Fork" button at the top-right of this page. After doing so, you will have your own copy of this repository.
+
+Next make sure you have the `git` software [installed](https://git-scm.com/downloads). Then on GitHub, copy the URL of **your** repository (see the `Clone or download` button on the top right of the page). At the command line, enter the following command (replacing `<clone URL>` with the actual URL):
 
 ```
 git clone <clone URL>
 ```
 
-Read the instructions carefully for each problem listed below. For each of the problems, you should write an R script called `X.R`, but replace `X` with the problem number. For example, for problem 1, the R script would be named `1.R`.
+After doing this, you will have a local copy of the repository.
+
+Read the instructions carefully for each problem listed below. For each of the problems, you should write an R script called `X.R`, but replace `X` with the problem number. For example, for problem 1, the R script would be named `1.R`. Store these scripts at the root level of your repository.
 
 In this repository, you will find a directory called `Tests`. It contains a test script for each problem. I will use these scripts to test your code. You can use them to test your code as well. You will also find a directory called `ExpectedOutput`. If your code is working properly for a given problem, you should get this output when the test script is executed for that problem.
 
-As you complete the problems, *commit* your answers to the master branch on GitHub. Put your scripts in the root directory of your repository. You can commit your code using the following three commands (replace `<message>` with an actual message):
+As you complete the problems, *commit* your answers to the master branch on GitHub. You can commit your code using the following three commands (replace `<message>` with an actual message):
 
 ```
 git add --all
@@ -23,6 +27,8 @@ git push origin master
 After the grading deadline (see Learning Suite), I will clone your repository and test your code.
 
 ### Problem Descriptions
+
+**Please let me know if you see any errors in these problem descriptions or in the expected outputs. Thanks!**
 
 1. Declare a variable called `greeting` and assigns a value of `Hello, World!` to that variable. Then print the value of this variable.
 
