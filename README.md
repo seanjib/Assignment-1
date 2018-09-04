@@ -26,7 +26,16 @@ After the grading deadline (see Learning Suite), I will clone your repository an
 
 1. Declare a variable called `greeting` and assigns a value of `Hello, World!` to that variable. Then print the value of this variable.
 
-2. Declare a variable that stores an *integer* value of `2` and another variable that stores a *numeric* value of the same number. Print the values of these variables (*in the same order* they were mentioned above). Then print the *sum* of these variables. Then use the `class` function to obtain and print the *type* of these variables (in the same order they were mentioned above).
+2. Declare a variable that stores an *integer* value of `2` and another variable that stores a *numeric* value of `3.0`. Then print the following:
+
+    a. The value the integer.
+    b. The value of the numeric.
+    c. The *type* of the integer variable (use an R function to obtain this type).
+    d. The *type* of the numeric variable (use an R function to obtain this type).
+    e. The sum of the these two variables (use an R function to calculate the sum).
+    f. The *type* of the sum.
+    g. Use the `as.integer` function to convert the integer variable to an actual integer. Then print the type of this variable.
+    h. The *type* of the sum of the two variables after the type conversion from the previous step.
 
 3. Declare a variable that stores a *string* value of `8460.2`. Print the value of this variable. Then convert the value to a *numeric* and print that value. Finally, convert the float value to an *integer* and print that value.
 
