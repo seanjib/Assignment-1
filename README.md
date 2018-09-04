@@ -28,7 +28,7 @@ After the grading deadline (see Learning Suite), I will clone your repository an
 
 ### Problem Descriptions
 
-**Please let me know if you see any errors in these problem descriptions or in the expected outputs. Thanks!**
+*Please let me know if you see any errors in these problem descriptions or in the expected outputs. Thanks!*
 
 1. Declare a variable called `greeting` and assigns a value of `Hello, World!` to that variable. Then print the value of this variable.
 
