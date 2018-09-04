@@ -30,7 +30,7 @@ After the grading deadline (see Learning Suite), I will clone your repository an
 
 *Please let me know if you see any errors in these problem descriptions or in the expected outputs. Thanks!*
 
-1. Declare a variable called `greeting` and assigns a value of `Hello, World!` to that variable. Then print the value of this variable.
+1. Declare a variable called `greeting` and assigns a value of `Hello, World!` to that variable. Then print the value of this variable. (For demonstration purposes, a script called `1.R` has been stored in this repository.)
 
 2. Declare a variable that stores an *integer* value of `2` and another variable that stores a *numeric* value of `3.0`. Then print the following:
 
