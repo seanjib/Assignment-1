@@ -29,7 +29,9 @@ After the grading deadline (see Learning Suite), I will clone your repository an
 2. Declare a variable that stores an *integer* value of `2` and another variable that stores a *numeric* value of `3.0`. Then print the following:
 
     a. The value the integer.
+
     b. The value of the numeric.
+    
     c. The *type* of the integer variable (use an R function to obtain this type).
     d. The *type* of the numeric variable (use an R function to obtain this type).
     e. The sum of the these two variables (use an R function to calculate the sum).
