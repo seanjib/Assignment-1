@@ -8,7 +8,7 @@ The purpose of this assignment is to help you become more familiar with basic R 
 git clone <clone URL>
 ```
 
-Read the instructions carefully for each problem listed below. For each of the problems, you should write an R script called `ProblemX.R`, but replace `X` with the problem number. For example, for problem 1, the R script would be named `Problem1.R`.
+Read the instructions carefully for each problem listed below. For each of the problems, you should write an R script called `X.R`, but replace `X` with the problem number. For example, for problem 1, the R script would be named `1.R`.
 
 In this repository, you will find a directory called `Tests`. It contains a test script for each problem. I will use these scripts to test your code. You can use them to test your code as well. You will also find a directory called `ExpectedOutput`. If your code is working properly for a given problem, you should get this output when the test script is executed for that problem.
 
